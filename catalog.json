@@ -1,8 +1,36 @@
 {
-    "jersey_devil": {
+    "cryptids": [
 
-        "image": "images/jersey_devil.jpg"
-
-    }
-
+        {
+            "name": "Jersey Devil",
+            "image": "images/jersey_devil.jpg",
+            "description": "A creature said to inhabit the Pine Barrens of New Jersey, described as a flying biped with hooves."
+        },
+        {
+            "name": "Yeti",
+            "image": "images/yeti.jpg",
+            "description": "Also known as the 'Abominable Snowman,' this ape-like creature is said to inhabit the Himalayan mountains."
+        },
+        {
+            "name": "Bogeyman",
+            "image": "images/bogeyman.jpg",
+            "description": "A mythical creature used by various cultures to frighten children into good behavior."
+        },
+        {
+            "name": "Kraken",
+            "image": "images/kraken.jpg",
+            "description": "A legendary sea monster said to dwell off the coasts of Norway and Greenland, known for dragging ships underwater."
+        },
+        {
+            "name": "Mokele-Mbembe",
+            "image": "images/mokele-mbembe.jpg",
+            "description": "A dinosaur-like creature said to inhabit the Congo River Basin, often described as a large sauropod."
+        },
+        {
+            "name": "Chupacabra",
+            "image": "images/chupacabra.jpg",
+            "description": "A legendary creature in Latin American folklore said to attack livestock, particularly goats, and drink their blood."
+        }
+        
+    ]
 }
