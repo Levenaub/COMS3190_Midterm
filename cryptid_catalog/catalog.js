@@ -18,13 +18,11 @@ fetch('catalog.json')
       rowHTML += `
         <div class="col-md-4 mb-4">
           <div class="card">
-            <div style="text-align: center">
               <img src="${page.image}" alt="${page.name}">
-            </div>
-            <div class="card-body">
-              <h5 class="card-title">${page.name}</h5>
-              <p class="card-text">${page.description}</p>
-            </div>
+              <div class="card-body">
+                <h5 class="card-title">${page.name}</h5>
+                <p class="card-text">${page.description}</p>
+              </div>
           </div>
         </div>
       `;
