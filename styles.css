@@ -11,4 +11,14 @@
     cursor: pointer;
     font-size: 2em;
   }
+
+  .font {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
   
+  .footer { 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+}
