@@ -1,0 +1,48 @@
+.map-container { 
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background: url('images/map.png') no-repeat center center;
+  background-size: cover;
+}
+
+.cryptid-marker {
+  position: absolute;
+  cursor: pointer;
+  font-size: 3em;
+}
+
+.card {
+  width: 200px; /* Set the width of the card */
+  display: none; /* Hide initially; will be shown by JS */
+  position: absolute; /* Position it on the map */
+  z-index: 1000; /* Ensure it appears on top */
+}
+
+.card-img-top {
+  width: 100%; /* Make the image responsive */
+  height: auto; /* Maintain aspect ratio */
+  max-height: 150px; /* Optional: set a maximum height for uniformity */
+}
+
+.custom-navbar {
+  background-color: #8a9a5b; 
+}
+.custom-navbar .nav-link, 
+.custom-navbar .navbar-brand {
+  color: white !important; /* Make navbar text white */
+}
+
+.map-container {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background: url('/images/map.png') no-repeat center center;
+  background-size: cover;
+}
+
+.cryptid-marker {
+  position: absolute;
+  cursor: pointer;
+  font-size: 2em;
+}
