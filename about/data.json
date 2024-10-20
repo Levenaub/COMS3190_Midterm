@@ -1,0 +1,17 @@
+{
+    "authors": [
+        {
+            "name": "Joseph",
+            "description": "Joseph has always been fascinated by cryptids and the mysterious creatures that lurk in folklore. His curiosity drives him to explore the unknown, combining his passion for cryptids with his web development expertise.",
+            "image": "../images/profile_joseph.png",
+            "email": "joehen01@iastate.edu"
+        },
+        {
+            "name": "Aubrey",
+            "description": "Aubrey has an interest in cryptids that stems from a lifelong love of folklore and mythical creatures. She enjoys uncovering the stories behind these legends and uses her skills in web design to bring these tales to life for others to explore.",
+            "image": "../images/profile_aubrey.png",
+            "email": "levenaub@iastate.edu"
+        }
+    ]
+        
+}
