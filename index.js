@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   
 
-fetch('index.json')
+fetch('data.json')
 .then(response => response.json())
 .then(data => {
   document.getElementById('content-container').src = data.bigfoot.image;
